@@ -54,4 +54,4 @@
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=garethng.visitor-badge.readme)
+![Visitor Count](https://visitor-badge.imlete.cn/badge?id=garethng.visitor-badge)
